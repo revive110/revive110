@@ -24,6 +24,11 @@ just a 13 year old messing with **game dev & programming**. aiming to work with 
 - Being one of the most known devs in history
 - Making my own project for people to love
 
+📂 projects i'm messing with:
+- [hello-unity](https://github.com/yourusername/hello-unity) – unity basics
+- [custom-vr-locomotion](https://github.com/yourusername/custom-vr-locomotion) – arm-swing VR locomotion/movement (somewhat like gorilla tag VR😂)
+- [learning-python](https://github.com/yourusername/learning-python) – small code i made in python
+
 📫 hit me up on discord: **revive110**
 
 
