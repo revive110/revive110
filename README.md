@@ -1,4 +1,4 @@
-# yo, i'm King 👋
+# yo, its revive
 
 just a 13 year old messing with **game dev & programming**. aiming to work with **Sony Interactive Entertainment / Sony Pictures** someday.  
 
