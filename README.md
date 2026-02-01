@@ -1,16 +1,29 @@
-## Hi there 👋
+# yo, i'm King 👋
 
-<!--
-**revive110/revive110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+just a 13 year old messing with **game dev & programming**. aiming to work with **Sony Interactive Entertainment / Sony Pictures** someday.  
 
-Here are some ideas to get you started:
+🎮 gaming apps:  
+- Steam, Epic Games Launcher, Discord
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 programming:  
+- C#, C++, Python, JavaScript, Java
+
+🛠 tools/tech:  
+- Unity, Unreal Engine  
+- Git & GitHub  
+- Blender (basic modeling)  
+- Visual Studio
+
+🎯 currently learning:
+- Everything for Developing
+- Every Important Programming Language
+- How to be the best of the best
+
+💫 goals:
+- Meeting very known people
+- Being one of the most known devs in history
+- Making my own project for people to love
+
+📫 hit me up on discord: **revive110**
+
+
